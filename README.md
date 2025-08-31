@@ -65,3 +65,7 @@ vehicles-streamlit-app/
 └─ README.md          # Documentación
 🚀 Despliegue en la nube
 Publicación gratuita con Streamlit Cloud: conectar GitHub, seleccionar repo y archivo app.py, presionar Deploy y obtener enlace público.
+
+## 🌐 Acceso a la aplicación
+Puedes acceder a la aplicación desplegada aquí: [Mi App en Render
+(https://proyecto-sprint7-86gv.onrender.com)
